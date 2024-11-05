@@ -1,0 +1,1 @@
+A Javascript DOM based mini project, consist of two dices. On Page reload, it shows the two distinct images on dice of Player 1 and Player 2. Out of these two Players whoever scores more wins the game.
